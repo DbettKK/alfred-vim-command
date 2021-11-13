@@ -1,6 +1,15 @@
 # alfred-vim-command
 
-vim操作快捷键 alfred workflow
+alfred workflow
 
-Workflow：使用python sdk
-vim快捷键参考：[here](https://www.jianshu.com/p/dde77e3b299f)
+vim command
+
+develop：python sdk
+
+python sdk repo：https://github.com/deanishe/alfred-workflow
+
+## Usage
+
+type `vim + {text}` to show the command 
+
+`{text}` can be English or Chinese
